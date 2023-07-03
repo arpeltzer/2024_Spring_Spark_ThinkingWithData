@@ -1,4 +1,4 @@
-Latitude,Longitude,labels
+Latitude,Longitude,University
 37.8718992,-122.2585399,"University of California, Berkeley"
 38.5382322,-121.7617125,"University of California, Davis"
 33.6404952,-117.8442962,"University of California, Irvine"
@@ -13,7 +13,7 @@ Latitude,Longitude,labels
 34.0588862,-117.8193781,"California State Polytechnic University, Pomona"
 35.3486641,-119.1033448,"California State University, Bakersfield"
 34.1620556,-119.043463,California State University Channel Islands
-39.72979960000001,-121.8459842,"California State University, Chico"
+39.72979960000000,-121.8459842,"California State University, Chico"
 33.8662483,-118.257364,"California State University, Dominguez Hills"
 37.6571459,-122.0574872,"California State University, East Bay"
 36.8133631,-119.7460947,"California State University, Fresno"
