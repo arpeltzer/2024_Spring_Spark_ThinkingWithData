@@ -6,7 +6,7 @@ Public Repo for Data 6 Summer 2023 Materials
 ### Homeworks
 - Homework 01 [Open Here](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw01%2Fhw01.ipynb)
 - Homework 02 [Open Here](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw02%2Fhw02.ipynb)
-<!-- - Homework 03 [Open Here](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw03%2Fhw03.ipynb) -->
+- Homework 03 [Open Here](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw03%2Fhw03.ipynb)
 <!-- - Homework 04 [Open Here](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw04%2Fhw04.ipynb) -->
 <!-- - Homework 05 [Open Here](https://eecs.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-su23&branch=main&urlpath=tree%2Fmaterials-su23%2Fhw%2Fhw05%2Fhw05.ipynb) -->
 ### Labs
