@@ -1,0 +1,11 @@
+test = {   'name': 'q3a',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> callable(sum_first_n_cubes)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sum_first_n_cubes(3) == 36\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sum_first_n_cubes(10) == 3_025\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sum_first_n_cubes(15) == 14_400\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sum_first_n_cubes(1000) == 250_500_250_000\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

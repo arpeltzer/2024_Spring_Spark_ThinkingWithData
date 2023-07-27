@@ -1,0 +1,11 @@
+test = {   'name': 'q3b',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> callable(alternating_product)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> alternating_product(make_array(2, 8.5, 1, 9)) == 18.0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> alternating_product(make_array(2, 8.5, 9, 4.5, 1)) == 9.0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> alternating_product(make_array(1, 2, 3, 4, 5, 9, -22)) == -88\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> alternating_product(make_array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)) == 280\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

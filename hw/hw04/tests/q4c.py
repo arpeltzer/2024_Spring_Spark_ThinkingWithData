@@ -1,0 +1,10 @@
+test = {   'name': 'q4c',
+    'points': 4,
+    'suites': [   {   'cases': [   {'code': '>>> type(top_ranked_artist) == str\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> "Adele" <= top_ranked_artist <= "Usher"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> type(top_artist_streak) in set([int, np.int32, np.int64])\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 10 <= top_artist_streak <= 40\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
